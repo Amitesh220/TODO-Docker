@@ -1,6 +1,6 @@
 # 📝 TODO App with Docker
 
-This is a simple TODO web application containerized using Docker. It serves as a beginner-friendly project for understanding how to dockerize a Node.js application and run it in a containerized environment.
+This is a simple TODO web application containerized using Docker and Deployed on aws ec2. It serves as a beginner-friendly project for understanding how to dockerize a Node.js application and run it in a containerized environment.
 
 ---
 
